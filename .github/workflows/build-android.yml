@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 22
       - name: Install web dependencies
-        run: npm ci
+        run: npm install
       - name: Generate Android project
         run: |
           npx cap add android
