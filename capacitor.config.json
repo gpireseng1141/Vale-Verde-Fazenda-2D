@@ -1,0 +1,9 @@
+{
+  "appId": "com.valeverde.fazenda",
+  "appName": "Vale Verde",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
